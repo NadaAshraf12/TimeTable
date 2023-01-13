@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Nada\Desktop\ENTER NUMBER AND PRINT THE TABLE\ENTER NUMBER AND PRINT THE TABLE\Source.c(5,36): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Nada\Desktop\ENTER NUMBER AND PRINT THE TABLE\ENTER NUMBER AND PRINT THE TABLE\Source.c(5,36): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  ENTER NUMBER AND PRINT THE TABLE.vcxproj -> C:\Users\Nada\Desktop\ENTER NUMBER AND PRINT THE TABLE\x64\Debug\ENTER NUMBER AND PRINT THE TABLE.exe
